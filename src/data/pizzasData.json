@@ -1,0 +1,66 @@
+[
+  {
+    "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
+    "id": "P001",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["mozzarella", "tomates", "jamón", "orégano"],
+    "name": "Napolitana",
+    "price": 5950
+  },
+  {
+    "desc": "Inspirada en sabores españoles, esta pizza presenta una base de masa crujiente, salsa de tomate, mozzarella, tomates, jamón y chorizo, brindando una experiencia auténtica y sabrosa.",
+    "id": "P002",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fcheese-164872_640_com.jpg?alt=media&token=18b2b821-4d0d-43f2-a1c6-8c57bc388fab",
+    "ingredients": ["mozzarella", "tomates", "jamón", "choricillo"],
+    "name": "Española",
+    "price": 7250
+  },
+  {
+    "desc": "Con una mezcla perfecta de mozzarella, tomates, salame y toques de orégano, esta pizza combina sabores intensos en una masa dorada y crujiente.",
+    "id": "P003",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3",
+    "ingredients": ["mozzarella", "tomates", "salame", "orégano"],
+    "name": "Salame",
+    "price": 5990
+  },
+  {
+    "desc": "Una obra maestra culinaria que equilibra mozzarella, salame, aceitunas y champiñones, ofreciendo una experiencia única para cada estación en cada bocado.",
+    "id": "P004",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
+    "ingredients": ["mozzarella", "salame", "aceitunas", "champiñones"],
+    "name": "Cuatro estaciones",
+    "price": 9590
+  },
+  {
+    "desc": "Sabores ahumados y deliciosos se mezclan en esta pizza, con mozzarella, tomates cherry, bacon y un toque de orégano sobre una masa perfectamente horneada.",
+    "id": "P005",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
+    "ingredients": ["mozzarella", "tomates cherry", "bacon", "orégano"],
+    "name": "Bacon",
+    "price": 6450
+  },
+  {
+    "desc": "Una pizza picante y sabrosa con mozzarella, pimientos, pollo grillé y un toque de orégano, que eleva el paladar con cada mordida.",
+    "id": "P006",
+    "img": "https://img.freepik.com/fotos-premium/pizza-pollo-picante-queso-tocino-espacio-copias_1018896-2944.jpg?w=1800",
+    "ingredients": ["mozzarella", "pimientos", "pollo grillé", "orégano"],
+    "name": "Pollo picante",
+    "price": 8500
+  },
+  {
+    "desc": "Abundante en ingredientes frescos, esta pizza presenta una combinación colorida de mozzarella, tomates, espinacas, champiñones y aceitunas, creando una opción ligera y deliciosa.",
+    "id": "P007",
+    "img": "https://cdn.colombia.com/sdi/2023/02/09/celebre-el-dia-de-la-pizza-con-una-receta-deliciosa-y-vegetariana-1116995.webp",
+    "ingredients": ["mozzarella", "pimientos", "pollo grillé", "orégano"],
+    "name": "Vegetariana",
+    "price": 5000
+  },
+  {
+    "desc": "Una opción tropical con mozzarella, jamón, piña y un toque de salsa de tomate, esta pizza equilibra lo salado y lo dulce para una experiencia gastronómica única.",
+    "id": "P008",
+    "img": "https://cdn2.cocinadelirante.com/1020x600/filters:format(webp):quality(75)/sites/default/files/images/2019/11/como-hacer-pizza-hawaiana.jpg",
+    "ingredients": ["mozzarella", "pimientos", "pollo grillé", "orégano"],
+    "name": "Hawaiana",
+    "price": 5500
+  }
+]
